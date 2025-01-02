@@ -1,0 +1,1 @@
+This repository showcases the application of Principal Component Analysis (PCA) for dimensionality reduction in data analysis. The notebook demonstrate PCA's ability to simplify high-dimensional data while retaining key features for further analysis.
